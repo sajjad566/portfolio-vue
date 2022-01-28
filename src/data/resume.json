@@ -1,0 +1,44 @@
+{
+    "sectionTitle": "My Resume",
+    "sectionTitleWaterText": "My Resume",
+    "education": {
+        "heading": "Education",
+        "resumes": [
+            {
+                "insName": "HARVARD UNIVERSITY",
+                "position": "<span>2012</span> | BSC in Computer",
+                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+            },
+            {
+                "insName": "OXFORD UNIVERSITY",
+                "position": "<span>2008</span> | Diploma In Computer",
+                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+            },
+            {
+                "insName": "UNIVERSITY OF CALIFORNIA",
+                "position": "<span>2005</span> | A Lavel",
+                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+            }
+        ]
+    },
+    "professional": {
+        "heading": "Professional",
+        "resumes": [
+            {
+                "insName": "Intellect Soft",
+                "position": "<span>2018-Present</span> | Software Engineer",
+                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+            },
+            {
+                "insName": "global management consulting",
+                "position": "<span>2016-2018</span> | Software Engineer",
+                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+            },
+            {
+                "insName": "Chinese multinational tech",
+                "position": "<span>2003-2016</span> | Web Developer",
+                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+            }
+        ]
+    }
+}

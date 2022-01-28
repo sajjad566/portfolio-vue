@@ -1,0 +1,36 @@
+{
+    "funfacts": [
+        {
+            "title": "Core PHP",
+            "counter": "95"
+        },
+        {
+            "title": "Laravel/Livewire",
+            "counter": "95"
+        },
+        {
+            "title": "WordPress",
+            "counter": "95"
+        },
+        {
+            "title": "Javscript/Ajax",
+            "counter": 90
+        },
+        {
+            "title": "Vue/GSAP",
+            "counter": 90
+        },
+        {
+            "title": "HTML/CSS/Bootstrap",
+            "counter": 95
+        },
+        {
+            "title": "Illustrator / Photoshop",
+            "counter": 85
+        },
+        {
+            "title": "Adobe XD",
+            "counter": 90
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "about": {
+        "sectionTitle": "About Me",
+        "sectionTitleWaterText": "About Me",
+        "aboutMe": "Hye, I'm Sajjad. I am working as a Web Developer for the last 7 years and have extensive knowledge in PHP, Laravel, VueJS, HTML, CSS, Bootstrap, Ajax, JS, JQuery, Livewire and GSAP. I am also a Shopify and a Wordpress Expert. New things come out every day and being a developer means you must seek to improve what you already know, I'm happy to be passionate about developing and I display this passion in every project I take."
+    },
+    "socials": [
+        {
+            "icon": "fa fa-linkedin",
+            "link": "https://www.linkedin.com/in/sajjad-aslam-3a0682184/"
+        }
+    ],
+    "aboutDetails": {
+        "image": "/img/about/about.png",
+        "heading": "I'm Sajjad, <br> Full-Stack Developer & UX/UI Designer",
+        "infoList": [
+            {
+                "label": "Name",
+                "info": "Sajjad Aslam"
+            },
+            {
+                "label": "Email",
+                "info": "sajjadaslammm@gmail.com"
+            },
+            {
+                "label": "Skype",
+                "info": "live:405046e68d665bed"
+            },
+            {
+                "label": "Website",
+                "info": "sajjad.website"
+            },
+            {
+                "label": "Freelance",
+                "info": "Available"
+            },
+            {
+                "label": "Phone",
+                "info": "(+92)336-0689032"
+            }
+        ]
+    }
+}

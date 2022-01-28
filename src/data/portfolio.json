@@ -1,0 +1,124 @@
+{
+    "portfolio": {
+        "sectionTitle": "Projects",
+        "sectionTitleWaterText": "Latest Work",
+        "portfolioGallery": [
+            {
+                "image": "/img/portfolio/flux.png",
+                "title": "Flux - Portfolio",
+                "link": "https://flux-hq.com/",
+                "desc": "A small agency that finds Office Spaces for you."
+            },
+            {
+                "image": "/img/portfolio/lavender.png",
+                "title": "Lavender - Ecommerce",
+                "link": "http://lavender.com.pk/",
+                "desc": "A Unique Shopping System Where They Do The Shoppping For You."
+            },
+            {
+                "image": "/img/portfolio/lara-morabito.jpg",
+                "title": "Lara Morabito",
+                "link": "https://lara-morabito-new.netlify.app/",
+                "desc": "Real Estate Of Garden Places."
+            },
+            {
+                "image": "/img/portfolio/intelligent.png",
+                "title": "intelligent Handshake - Agency",
+                "link": "https://intelligenthandshake.com/",
+                "desc": "A Company that helps improve the metrics of any consumer platform. Front-End Template with Bootstrap & GSAP"
+            },
+            {
+                "image": "/img/portfolio/slice-collective.png",
+                "title": "Slice Collective - Video Production",
+                "link": "https://slicecollective.com/",
+                "desc": "Video Production Company that specializes in entertainment & brand marketing."
+            },
+            {
+                "image": "/img/portfolio/cousin.png",
+                "title": "Cousin MG",
+                "link": "https://cousinmg.com/",
+                "desc": "Media planning and buying experts that specialise in the entertainment industry."
+            },
+            {
+                "image": "/img/portfolio/kmk-recruitment.jpg",
+                "title": "KMK Recruitment",
+                "link": "https://kmkrecruitment.co.uk/",
+                "desc": "A personal portfolio Template with animations."
+            },
+            {
+                "image": "/img/portfolio/arabianpetals.png",
+                "title": "Arabian Petal - Flower Shop",
+                "link": "http://arabianpetals.ae/",
+                "desc": "A flower shop made in Shopify."
+            },
+            {
+                "image": "/img/portfolio/show-me-the-wow.jpg",
+                "title": "Show Me The Wow",
+                "link": "https://showmethewow.com/",
+                "desc": "Website for a competitive show but if the ideas and prototypes make money, they all win."
+            },
+            {
+                "image": "/img/portfolio/knowyourdoctor.png",
+                "title": "Know Your Doctor - Blogs",
+                "link": "https://www.knowyourdoctor.com.cy/",
+                "desc": "A very simple and sleak design with blogging."
+            },
+            {
+                "image": "/img/portfolio/ksbin.png",
+                "title": "Ksbin - CRM",
+                "link": "http://client.artdevapp.com/",
+                "desc": "A client relation management system. Laravel/Bootstrap Used."
+            },
+            {
+                "image": "/img/portfolio/work.png",
+                "title": "Work - Dashboard",
+                "link": "https://work.artdevapp.com/",
+                "desc": "Keeping the records together. PHP/Vue used."
+            }
+        ]
+    },
+    "projectDetails": {
+        "projectDetailsTitle": "Web Development Project For Agency Business",
+        "projectDetailsDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem veritatis quo et ullam, ducimus itaque earum dolorem? Consectetur, et, aut. A, corporis officia eius dicta explicabo saepe nesciunt, mollitia minima, atque maiores optio cum. Atque amet unde impedit voluptate cumque distinctio minima, aspernatur nemo! Expedita in, numquam blanditiis ullam rem! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi cum fugit officia dolores eligendi, rem. Quibusdam quasi impedit perspiciatis iure maiores, eaque numquam doloremque, quo nam soluta itaque obcaecati tempore!.</br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore ex, nam adipisci dolores laborum earum. Unde cum, ut nostrum nihil alias, laudantium molestiae, vitae quidem dolorem officiis ipsum. Aliquid nemo consequuntur cupiditate delectus sapiente doloribus dolorem, at suscipit, non laudantium mollitia magnam repellat atque quia! Aut, veniam, nam. Ex porro optio facilis nostrum, qui ipsa?",
+        "images": [
+            {
+                "image": "/img/screenshot/screenshot-1.jpg"
+            },
+            {
+                "image": "/img/screenshot/screenshot-2.jpg"
+            },
+            {
+                "image": "/img/screenshot/screenshot-3.jpg"
+            }
+        ]
+    },
+    "projectDetailsInfo": {
+        "title": "Project Information",
+        "lists": [
+            {
+                "label": "Client",
+                "desc": "Dominic Due"
+            },
+            {
+                "label": "Location",
+                "desc": "Barlin, Jarmany"
+            },
+            {
+                "label": "Sector",
+                "desc": "South"
+            },
+            {
+                "label": "Year",
+                "desc": "2020"
+            },
+            {
+                "label": "Budget",
+                "desc": "$5000"
+            },
+            {
+                "label": "Website",
+                "desc": "www.example.com"
+            }
+        ]
+    }
+}

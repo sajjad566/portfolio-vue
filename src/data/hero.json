@@ -1,0 +1,8 @@
+{
+    "hero": {
+        "subTitle": "Hi, I'm <span>Sajjad</span>",
+        "title": "Full-Stack Website Engineer",
+        "bgImg": "/img/hero/world.png",
+        "image": "/img/hero/hero3.png"
+    }
+}

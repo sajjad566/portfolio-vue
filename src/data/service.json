@@ -1,0 +1,38 @@
+{
+    "service": {
+        "sectionTitle": "My Specialty",
+        "sectionTitleWaterText": "My Specialty",
+        "services": [
+            {
+                "serviceNo": "01",
+                "title": "Web Design",
+                "desc": "I provide the designs of the website in as well as custom components designing."
+            },
+            {
+                "serviceNo": "02",
+                "title": "Front-End Development",
+                "desc": "I provide the front-end development not only design wise but with latest frameworks like Vue and bootstrap."
+            },
+            {
+                "serviceNo": "03",
+                "title": "Back-End Development",
+                "desc": "I provide the back-end development that is done with frameworks like Laravel to give users the best experience and secure connection."
+            },
+            {
+                "serviceNo": "04",
+                "title": "CMS Development",
+                "desc": "I provide CMS(Content Management System) like WordPress and its themes from scratch."
+            },
+            {
+                "serviceNo": "05",
+                "title": "Animations",
+                "desc": "I provide the animations in the website to the clients that are looking into more of a classic looking website."
+            },
+            {
+                "serviceNo": "06",
+                "title": "Responsive/Up to Date",
+                "desc": "I provide resposive code for all devices as well as all the code and system in made in the latest technologies and no older versions."
+            }
+        ]
+    }
+}

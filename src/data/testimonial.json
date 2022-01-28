@@ -1,0 +1,20 @@
+{
+    "bgImage": "/img/bg/testimonial.png",
+    "testimonials": [
+        {
+            "desc": "100% Top-notch work! Sajjad is an excellent communicator and a fantastic person. He is highly skilled and creative. He has a positive attitude and is genuinely wanting success for his clients. He is patient and professional and gets the job done efficiently. He is the best choice among many others. WE HIGHLY RECOMMEND HIM!",
+            "author": "Recreate the form",
+            "designation": "Upwork"
+        },
+        {
+            "desc": "Very responsive, changed everything as I instructed and I love the website build for my business. I will definitely use him again. Great service.",
+            "author": "Website Customization",
+            "designation": "Upwork"
+        },
+        {
+            "desc": "Sajjad is amazing! seriously speaking, he made my dreams come true. very talented and quick, gives you his undivided attention and responds to your every request. if you want a unique, amazing website, please don't think twice and book him!",
+            "author": "Changes to Laravel UI",
+            "designation": "Upwork"
+        }
+    ]
+}
